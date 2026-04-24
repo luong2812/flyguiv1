@@ -2,7 +2,7 @@
 local plr = game:GetService("Players").LocalPlayer
 local UIS = game:GetService("UserInputService")
 local RS = game:GetService("RunService")
-local speed, flying = 50, false
+local speed, flying = 150, false
 local bv, bg
 
 -- UI
